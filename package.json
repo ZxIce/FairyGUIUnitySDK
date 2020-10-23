@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "unity": "2018.1",
   "description": "FairyGUI的UnitySDK",
+  "type": "library",
   "keywords": ["FairyGUI"],
-  "category": "FairyGUI"
+  "author": {
+    "name": "ZxIce",
+    "url": "https://github.com/ZxIce"
+  }
 }
