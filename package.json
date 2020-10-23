@@ -1,0 +1,9 @@
+{
+  "name": "com.FairyGUI.unity",
+  "displayName": "Package Number 4",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "FairyGUI的UnitySDK",
+  "keywords": ["FairyGUI"],
+  "category": "FairyGUI"
+}
