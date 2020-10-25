@@ -1,0 +1,17 @@
+{
+    "name": "FairyGUIEditor",
+    "references": [
+        "GUID:74e37636095125f40ab5906a7970b309"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
