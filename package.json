@@ -2,7 +2,7 @@
   "name": "com.fairygui.unity",
   "displayName": "FairyGUI",
   "description": "FairyGUI UnitySDK",
-  "version": "1.0.0",
+  "version": "4.1.0",
   "unity": "2018.3",
   "dependencies": {
   }
